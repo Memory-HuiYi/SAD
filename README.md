@@ -7,6 +7,7 @@
 
 ## Web3.0 技能樹
 [技能樹](https://gitmind.com/app/docs/muk83qeh)
+![Web3(篩選後)](https://user-images.githubusercontent.com/125955622/224914991-c8080488-246b-420d-9802-0f755d446d53.jpg)
 <!-- #### 1.Dapps（分散式應用程序Decentralized Applications）
 基於區塊鏈技術開發的應用程序，具有去中心化、開放性、公正性等特點，不需要信任中心，並且可以實現價值傳遞和智能合約的自動執行。  
 Dapps的實現需要前端、後端和區塊鏈技術的結合。
