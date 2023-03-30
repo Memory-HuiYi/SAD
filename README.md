@@ -12,7 +12,7 @@
 ![Web3(篩選後)](https://user-images.githubusercontent.com/125955622/226163606-6da48a95-49d8-44b9-8900-4c86367b5cb3.jpg)
 
 ## 作業連結區
-* [HW1](https://www.youtube.com/watch?v=EzxgtZAXcQU)
+* [HW1(學習規劃-影片)](https://www.youtube.com/watch?v=EzxgtZAXcQU)
 
 
 <!-- ## 目錄
