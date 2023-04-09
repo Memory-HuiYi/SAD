@@ -12,9 +12,13 @@
 ![Web3(篩選後)](https://user-images.githubusercontent.com/125955622/226163606-6da48a95-49d8-44b9-8900-4c86367b5cb3.jpg)
 
 ## 作業連結區
-* [HW1 學習規劃(影片)](https://www.youtube.com/watch?v=EzxgtZAXcQU)
-* [HW2 第一個實作練習](https://github.com/Memory-HuiYi/SAD/tree/main/Vue/firstvue)
-<!-- * [HW2 第一個實作練習(影片)] -->
+- HW1
+    - [HW1技能樹](https://gitmind.com/app/docs/muk83qeh)
+    - [HW1學習規劃(Notion)](https://www.notion.so/Web3-0-d4c0526f3fae497d95ce0b4cab9d8253)
+    - [HW1 學習規劃(影片)](https://www.youtube.com/watch?v=EzxgtZAXcQU)
+- HW2
+    - [HW2 第一個實作練習(GitHub)](https://github.com/Memory-HuiYi/SAD/tree/main/Vue/firstvue)
+    - [HW2 第一個實作練習(影片)]()
 
 
 <!-- ## 目錄
