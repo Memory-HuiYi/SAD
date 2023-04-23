@@ -21,7 +21,7 @@
     - [實作練習(影片)](https://www.youtube.com/watch?v=KmzV4Jss8WY)
 - HW3 Blockly + React + Web3學習規劃
     - [學習規劃(Notion)](https://enormous-allspice-0c1.notion.site/Blockly-React-Web3-215fb05672a94e5dbf3acd8c406c9817)
-<!--     - [學習規劃(影片)] -->
+    - [學習規劃(影片)](https://www.youtube.com/watch?v=Y1QYgNuwGGI)
 <!-- ## 目錄
 * [課程筆記區](https://github.com/Memory-HuiYi/SAD#%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98%E5%8D%80)  
 * [專題連結區](https://github.com/Memory-HuiYi/SAD#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)  
