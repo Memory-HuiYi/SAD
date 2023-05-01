@@ -36,9 +36,6 @@ function App() {
         snap: true
       }
     },
-    // workspaceConfiguration: {
-    //   className: 'blocklyWorkspace',
-    // },
     onWorkspaceChange: () => console.log('Workspace changed!'),
   });
 
