@@ -1,7 +1,7 @@
 import './App.css';
 import { useRef } from 'react';
 import { useBlocklyWorkspace } from 'react-blockly';
-import Blockly from 'blockly';
+// import Blockly from 'blockly';
 import { toolbox } from './toolbox.js';
 import { javascriptGenerator } from 'blockly/javascript';
 
@@ -16,17 +16,18 @@ function App() {
 
   const runCode = () => {
     console.log("RUN")
-    var code = javascriptGenerator.workspaceToCode(
+    // const code = Blockly.JavaScript.workspaceToCode(blocklyRef.current.workspace);
+    const code = javascriptGenerator.workspaceToCode(
       workspace.current
     );
     console.log(code);
     eval(code);
   };
 
-  const {workspace} = useBlocklyWorkspace({
+  const { workspace } = useBlocklyWorkspace({
     ref: blocklyRef,
     toolboxConfiguration: toolbox,
-    Blockly: Blockly,
+    // Blockly: Blockly,
     initialXml,
     workspaceConfiguration: {
       grid: {
