@@ -4,7 +4,8 @@
 系級：科技系3年級 
 ## 目錄
 * [Web3.0技能樹](https://github.com/Memory-HuiYi/SAD#web30-%E6%8A%80%E8%83%BD%E6%A8%B9)  
-* [作業連結區](https://github.com/Memory-HuiYi/SAD#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80)  
+* [作業連結區](https://github.com/Memory-HuiYi/SAD#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80)
+* [專題連結區](https://github.com/Memory-HuiYi/SAD#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)    
 
 ## Web3.0 技能樹
 * [技能樹](https://gitmind.com/app/docs/muk83qeh)
@@ -33,5 +34,7 @@
 * [專題連結區](https://github.com/Memory-HuiYi/SAD#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)  
 
 
-## 課程筆記區
-## 專題連結區 -->
+## 課程筆記區 -->
+## 專題連結區 
+* [GitHub](https://github.com/PecuLab-Blockly/Web3_Blockly_Web)
+* [介紹影片](https://www.youtube.com/watch?v=f87HOgiFP-g)
